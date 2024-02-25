@@ -12,7 +12,7 @@ Welcome to the Autohaus Website project! This is an ongoing effort to create a d
 - **Services Offered:** Learn about the various services provided by the auto dealership.
 - **Contact Information:** Easily get in touch with the Autohaus team.
 
-#screenshot
+![Screenshot_50](https://github.com/Pommes20304050/Autohaus-Website/assets/150703477/07b1a045-dc23-496a-816e-1472e3a16531)
 
 ## How to Contribute
 
@@ -24,7 +24,6 @@ Contributions and feedback are welcome! If you have ideas, suggestions, or want 
 2. [Additional setup instructions, dependencies, etc.]
 
 
-![Screenshot_50](https://github.com/Pommes20304050/Autohaus-Website/assets/150703477/07b1a045-dc23-496a-816e-1472e3a16531)
 
 ## Known Issues
 
